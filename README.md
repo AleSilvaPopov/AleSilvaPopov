@@ -3,8 +3,8 @@
 Sou estudante de Engenharia da Computação com especialização em C++ (Back-end).
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AleSilvaPopov&show_icons=true&theme=dark&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AleSilvaPopov&layout=compact&theme=dark">
+    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AleSilvaPopov&show_icons=true&theme=dark&count_private=true">
+    <img height="140em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AleSilvaPopov&layout=compact&theme=dark">
 </div>
 
 ### Technologies:
