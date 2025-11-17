@@ -15,6 +15,7 @@ Sou estudante de Engenharia da Computação com especialização em C++ (Back-en
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   </div>
 
   ##
